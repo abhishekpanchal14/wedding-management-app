@@ -29,7 +29,7 @@ COPY --from=publish /app/publish .
 RUN mkdir -p /app/data /app/wwwroot/uploads
 
 # Set environment variables
-ENV ASPNETCORE_URLS=http://+:80
+ENV ASPNETCORE_URLS=http://0.0.0.0:$PORT
 ENV ASPNETCORE_ENVIRONMENT=Production
 
 # Copy database file if present in build context
