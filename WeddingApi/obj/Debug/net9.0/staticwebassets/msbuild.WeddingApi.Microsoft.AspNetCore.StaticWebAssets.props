@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeddingApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeddingApi</BasePath>
+      <RelativePath>uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2u3sd0sle7</Fingerprint>
+      <Integrity>ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeddingApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeddingApi</BasePath>
+      <RelativePath>uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r6eqchyleq</Fingerprint>
+      <Integrity>rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeddingApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeddingApi</BasePath>
+      <RelativePath>uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m7ao9lkbcl</Fingerprint>
+      <Integrity>Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeddingApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeddingApi</BasePath>
+      <RelativePath>uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0jibyxoi1d</Fingerprint>
+      <Integrity>dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

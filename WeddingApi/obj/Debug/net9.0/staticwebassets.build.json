@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "guwB5nQK7exhkZX7HsmaaVYeNK3bNv4AVpdMUrIHe8c=",
+  "Source": "WeddingApi",
+  "BasePath": "_content/WeddingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeddingApi/wwwroot",
+      "Source": "WeddingApi",
+      "ContentRoot": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/",
+      "BasePath": "_content/WeddingApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG",
+      "SourceId": "WeddingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/",
+      "BasePath": "_content/WeddingApi",
+      "RelativePath": "uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2u3sd0sle7",
+      "Integrity": "ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG"
+    },
+    {
+      "Identity": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG",
+      "SourceId": "WeddingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/",
+      "BasePath": "_content/WeddingApi",
+      "RelativePath": "uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6eqchyleq",
+      "Integrity": "rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG"
+    },
+    {
+      "Identity": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4",
+      "SourceId": "WeddingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/",
+      "BasePath": "_content/WeddingApi",
+      "RelativePath": "uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523#[.{fingerprint}]?.MP4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7ao9lkbcl",
+      "Integrity": "Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4"
+    },
+    {
+      "Identity": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4",
+      "SourceId": "WeddingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/",
+      "BasePath": "_content/WeddingApi",
+      "RelativePath": "uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0jibyxoi1d",
+      "Integrity": "dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.2u3sd0sle7.PNG",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2u3sd0sle7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ltCTSqWMHj3+wB8k+z5XVDdqOmhfR5w5ydEOb5kg5SM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6652303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:16:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.r6eqchyleq.JPG",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6652303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:16:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6eqchyleq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWWDsGp7bEDJ+sp9ixlv1CfZ89fI0g5EjeXmDASvqjE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.m7ao9lkbcl.MP4",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7ao9lkbcl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tple3ynsVt+o4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.0jibyxoi1d.mp4",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16347506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:16:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jibyxoi1d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4",
+      "AssetFile": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16347506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Mar 2026 19:16:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dEdy+OY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE="
+        }
+      ]
+    }
+  ]
+}

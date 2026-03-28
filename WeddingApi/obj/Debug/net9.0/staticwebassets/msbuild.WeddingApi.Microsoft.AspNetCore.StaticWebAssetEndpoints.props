@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.2u3sd0sle7.PNG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2u3sd0sle7"},{"Name":"integrity","Value":"sha256-ltCTSqWMHj3\u002BwB8k\u002Bz5XVDdqOmhfR5w5ydEOb5kg5SM="},{"Name":"label","Value":"_content/WeddingApi/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"806292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ltCTSqWMHj3\u002BwB8k\u002Bz5XVDdqOmhfR5w5ydEOb5kg5SM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:26:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ltCTSqWMHj3\u002BwB8k\u002Bz5XVDdqOmhfR5w5ydEOb5kg5SM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"806292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ltCTSqWMHj3\u002BwB8k\u002Bz5XVDdqOmhfR5w5ydEOb5kg5SM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:26:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rWWDsGp7bEDJ\u002Bsp9ixlv1CfZ89fI0g5EjeXmDASvqjE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6652303"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rWWDsGp7bEDJ\u002Bsp9ixlv1CfZ89fI0g5EjeXmDASvqjE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:16:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.r6eqchyleq.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r6eqchyleq"},{"Name":"integrity","Value":"sha256-rWWDsGp7bEDJ\u002Bsp9ixlv1CfZ89fI0g5EjeXmDASvqjE="},{"Name":"label","Value":"_content/WeddingApi/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6652303"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rWWDsGp7bEDJ\u002Bsp9ixlv1CfZ89fI0g5EjeXmDASvqjE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:16:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.m7ao9lkbcl.MP4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m7ao9lkbcl"},{"Name":"integrity","Value":"sha256-Tple3ynsVt\u002Bo4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY="},{"Name":"label","Value":"_content/WeddingApi/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"439596"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022Tple3ynsVt\u002Bo4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:26:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tple3ynsVt\u002Bo4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"439596"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022Tple3ynsVt\u002Bo4YBG3dx9lMN6igVCnpbzwSFWi2e4zfY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:26:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.0jibyxoi1d.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0jibyxoi1d"},{"Name":"integrity","Value":"sha256-dEdy\u002BOY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE="},{"Name":"label","Value":"_content/WeddingApi/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16347506"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022dEdy\u002BOY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:16:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WeddingApi/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dEdy\u002BOY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16347506"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022dEdy\u002BOY57BfxUPbcvp0fzBrmWfb9qchr3CDsskyqpsE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Mar 2026 19:16:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/out/
+**/.vs/
+**/.vscode/
+**/node_modules/
+**/dist/
+**/.git/
+**/.gitignore
+**/README.md
+**/DEPLOYMENT.md
+**/*.log
+**/appsettings.Development.json
+**/WeddingApi.http
+**/Properties/launchSettings.json

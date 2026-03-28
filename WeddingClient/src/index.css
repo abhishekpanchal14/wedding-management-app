@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,300;0,400;0,700;1,300&family=Manrope:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
+
+:root {
+  --primary: #775a19;
+  --primary-container: #c5a059;
+  --secondary: #5f5e5e;
+  --tertiary: #6c5c4a;
+  --background: #faf9f6;
+  --surface: #faf9f6;
+  --surface-container-low: #f4f3f1;
+  --surface-container: #efeeeb;
+  --surface-variant: #e3e2e0;
+  --on-background: #1a1c1a;
+  --on-surface: #1a1c1a;
+  --on-surface-variant: #4e4639;
+  --outline: #7f7667;
+  --error: #ba1a1a;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Manrope', 'Segoe UI', sans-serif;
+  background: var(--background);
+  color: var(--on-background);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.champagne-gradient {
+  background: linear-gradient(135deg, #775a19 0%, #c5a059 100%);
+}
+
+.glass-header {
+  background: rgba(250, 249, 246, 0.7);
+  backdrop-filter: blur(20px);
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG",
+      "PackagePath": "staticwebassets/uploads/photo_eaecf524-e860-4544-abe0-fa5dcc491bbe.PNG"
+    },
+    {
+      "Id": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG",
+      "PackagePath": "staticwebassets/uploads/photo_f62c5d7f-f8ed-4924-8013-3332a9ae2f9e_.JPG"
+    },
+    {
+      "Id": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4",
+      "PackagePath": "staticwebassets/uploads/video_3da09d26-6e7a-4317-8a0c-314904c18523.MP4"
+    },
+    {
+      "Id": "/Users/abhishekpanchal/WeddingEventManagement/WeddingApi/wwwroot/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4",
+      "PackagePath": "staticwebassets/uploads/video_65f806dc-0872-42f6-be7c-c721a691ad0c_.mp4"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WeddingApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WeddingApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.WeddingApi.props",
+      "PackagePath": "build\\WeddingApi.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WeddingApi.props",
+      "PackagePath": "buildMultiTargeting\\WeddingApi.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WeddingApi.props",
+      "PackagePath": "buildTransitive\\WeddingApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

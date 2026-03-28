@@ -1,0 +1,15 @@
+[build]
+builder = "dockerfile"
+
+[deploy]
+startCommand = "dotnet WeddingApi.dll --urls=http://0.0.0.0:$PORT"
+healthcheckPath = "/api/health"
+healthcheckTimeout = 300
+restartPolicyType = "ON_FAILURE"
+
+[build.env]
+DOTNET_CLI_TELEMETRY_OPTOUT = "1"
+
+[deploy.env]
+ASPNETCORE_ENVIRONMENT = "Production"
+DATABASE_PATH = "/app/data/wedding.db"
