@@ -32,7 +32,7 @@ RUN mkdir -p /app/data /app/wwwroot/uploads
 ENV ASPNETCORE_URLS=http://+:80
 ENV ASPNETCORE_ENVIRONMENT=Production
 
-# Copy database file if it exists (for initial data)
-COPY wedding.db /app/data/ 2>/dev/null || true
+# Copy database file if present in build context
+COPY wedding.db /app/data/
 
 ENTRYPOINT ["dotnet", "WeddingApi.dll"]
