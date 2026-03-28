@@ -3,6 +3,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Bind to Railway PORT or default to 80.
+var port = Environment.GetEnvironmentVariable("PORT") ?? "80";
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+
 // Configure CORS for frontend dev server.
 builder.Services.AddCors(options =>
 {
