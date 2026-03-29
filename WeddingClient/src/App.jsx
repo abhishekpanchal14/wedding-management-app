@@ -127,10 +127,11 @@ function App() {
             </button>
             <h1>Wedding Atelier</h1>
           </div>
-          <div className="header-right">
+          
+          <div class="flex justify-center md:justify-end p-4">
             <button 
               onClick={() => setShowForm(!showForm)}
-              className="add-vendor-btn"
+              className="w-full md:w-auto bg-blue-500 text-white px-4 py-2 rounded"
             >
               Add Vendor
             </button>
