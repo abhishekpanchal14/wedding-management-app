@@ -131,7 +131,7 @@ function App() {
           <div class="flex justify-center md:justify-end p-4">
             <button 
               onClick={() => setShowForm(!showForm)}
-              className="w-full md:w-auto bg-blue-500 text-white px-4 py-2 rounded"
+              className="w-full md:w-auto bg-blue-500 text-white px-4 py-2 rounded add-vendor-btn"
             >
               Add Vendor
             </button>
